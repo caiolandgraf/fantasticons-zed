@@ -1,0 +1,23 @@
+id = "fantasticons"
+name = "FantastIcons"
+version = "1.0.0"
+schema_version = 1
+description = "A fastastic icon theme for Zed"
+repository = "https://github.com/caiolandgraf/fantasticons-zed"
+authors = ["Caio Landgraf <eu.caiolandgraf@gmail.com>"]
+themes = []
+icon_themes = ["icon_themes/fantasticons-icon-theme.json"]
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
